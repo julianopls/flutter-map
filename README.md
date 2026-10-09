@@ -27,4 +27,4 @@ O aplicativo permite visualizar um mapa e clicar em um ponto para obter sua lati
 ## Print do aplicativo
 
 ![Início](prints/home.png)
-![Mapa](prints/mapa.png)
+![Mapa](prints/map.png)
